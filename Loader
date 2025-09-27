@@ -2,6 +2,4 @@ if game.PlaceId == 127742093697776 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/yzarcz/Cryztal/refs/heads/main/Games/Plants-vs-Brainrots"))()
 elseif game.PlaceId == 119296091834097 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/yzarcz/Cryztal/refs/heads/main/Games/Drillbit-and-co."))()
-else then
-  print("Unsupported game!")
 end
