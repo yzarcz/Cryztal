@@ -2,4 +2,8 @@ if game.PlaceId == 127742093697776 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/yzarcz/Cryztal/refs/heads/main/Games/Plants-vs-Brainrots"))()
 elseif game.PlaceId == 119296091834097 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/yzarcz/Cryztal/refs/heads/main/Games/Drillbit-and-co."))()
+elseif game.PlaceId == 131716211654599 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/yzarcz/Cryztal/refs/heads/main/Games/Fisch_in_dev"))()
+elseif game.PlaceId == 16732694052 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/yzarcz/Cryztal/refs/heads/main/Games/Fisch_in_dev"))()
 end
